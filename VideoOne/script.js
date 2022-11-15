@@ -14,4 +14,10 @@
 let programmingIsCool = true;
 console.log(programmingIsCool);
 
-console.log(typeof programmingIsCool );
+// console.log(typeof programmingIsCool );
+programmingIsCool = "YES";
+
+let myNumber = '500'; // oops, this is still a string
+typeof myNumber;
+
+const PI = 3.14;
