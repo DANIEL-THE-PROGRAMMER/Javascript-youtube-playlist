@@ -49,3 +49,10 @@ x++;
 x--;
 
 console.log(x);
+
+//Comparison Operators
+console.log(ageDaniel > ageVictor);
+console.log(ageDaniel >= 20);
+
+//Operator Precedence
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
