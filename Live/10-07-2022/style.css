@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+#recipeBy {
+  /* float: right; */
+}
+
+#brownieImage {
+  width: 500px;
+  height: auto; 
+  float: right;
+}
+
+#brownieRecipeLink {
+  font-size: 15px;
+}
+
+#tip {
+  font-weight: bold;
+}

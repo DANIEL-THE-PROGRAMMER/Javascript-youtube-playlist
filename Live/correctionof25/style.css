@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+    font-family: "outfit", sans-serif ;
+
+}
+.card{
+    background-color: white;
+    padding: 20px;
+    width: 375px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.card_banner img{
+    border-radius: 100px;
+    width: 100%;
+
+}
+.card_title {
+    color: rgb(109, 70, 44)
+
+}
+.card_description{
+    color: aqua;
+}

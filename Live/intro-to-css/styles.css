@@ -1,0 +1,53 @@
+* {
+  /* color: orange; */
+  /* font-size: 100px; */
+}
+
+h1, h2 {
+  color: black;
+  font-size: 30px;
+}
+
+p ~ span {
+    color: orange;
+}
+
+/* div p:nth-child(odd) {
+    color: green;
+} */
+
+/* p {
+    color: green;
+} */
+
+/* .upper > div > p {
+    color: red;
+} */
+
+/* .second-hightlight p {
+    font-size: 30px;
+}
+
+#first p {
+    color: blueviolet;
+} */
+
+/* .text-1 {
+    font-size: 40px;
+} */
+
+/* .text {
+    font-size: 40px;
+}
+
+#btn {
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+    color: #fff;
+    font-size: 20px;
+}
+
+input[type="text"] {
+    padding: 1rem;
+} */
